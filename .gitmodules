@@ -1,0 +1,3 @@
+[submodule "beautifulhugo"]
+	path = beautifulhugo
+	url = git@github.com:justinchen928/beautifulhugo.git
