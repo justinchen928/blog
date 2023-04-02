@@ -4,6 +4,7 @@ date: 2019-12-29T08:05:10+08:00
 author: justinchen
 type: post
 slug: login-remote-server-with-ssh-key-pair
+share_img: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*608C4EoqJ5WDMPOqZOX8_Q.png
 categories:
   - ssh
 tags: ["ssh"]
