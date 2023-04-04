@@ -27,53 +27,19 @@ googleAnalytics = "G-MT7HR3N3JQ"
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-#  hideAuthor = true
-#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
-#[[Params.bigimg]]
-#  src = "img/triangle.jpg"
-#  desc = "Triangle"
-#[[Params.bigimg]]
-#  src = "img/sphere.jpg"
-#  desc = "Sphere"
-#  # position: see values of CSS background-position.
-#  position = "center top"
-#[[Params.bigimg]]
-#  src = "img/hexagon.jpg"
-#  desc = "Hexagon"
+  enableRobotsTXT = true
 
 [Author]
-#   Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-#   name = "Some Person"
-#   website = "yourwebsite.com"
-#   email = "youremail@domain.com"
-#   facebook = "username"
+  name = "CHIH-YU CHEN"
+  website = "blog.justinchen928.com"
+  email = "justin928501@gmail.com"
   github = "justinchen928"
-#   gitlab = "username"
-#   bitbucket = "username"
-#   twitter = "username"
-#   reddit = "username"
-#   linkedin = "username"
-#   xing = "username"
-#   stackoverflow = "users/XXXXXXX/username"
-#   snapchat = "username"
-#   instagram = "username"
-#   youtube = "user/username" # or channel/channelname
-#   soundcloud = "username"
-#   spotify = "username"
-#   bandcamp = "username"
-#   itchio = "username"
-#   vk = "username"
-#   paypal = "username"
-#   telegram = "username"
-#   500px = "username"
-#   codepen = "username"
-#   mastodon = "url"
-#   kaggle = "username"
-#   weibo = "username"
-#   slack = "username"
-#   discord = "invite code (https://discord.gg/XXXXXXX)"
-#   strava = "userid"
+  linkedin = "chih-yu-chen-804b37a1"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [[menu.main]]
     name = "@CHIH-YU"
