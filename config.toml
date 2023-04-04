@@ -1,6 +1,7 @@
 # baseURL = 'https:blog.justinchen928.com/'
-languageCode = 'zh-tw'
-title = 'Stay Ready'
+languageCode = 'zh-TW'
+title = '分而治之'
+subtitle = 'Breaking down complex problems into manageable pieces.'
 theme = 'beautifulhugo'
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -11,11 +12,12 @@ pygmentsCodefencesGuessSyntax = true
 googleAnalytics = "G-MT7HR3N3JQ"
 
 [Params]
-  homeTitle = "Stay Ready" # Set a different text for the header on the home page
+  homeTitle = "分而治之" # Set a different text for the header on the home page
+  subtitle = 'Breaking down complex problems into manageable pieces.'
   mainSections = ["post","posts"]
   logo = "https://lh3.googleusercontent.com/a/AGNmyxblZR66us2Lf-12avON_Y-rlMmDfb9wxzFcqir_RQ=s96-c-rg-br100"
   favicon = "img/favicon.ico"
-  dateFormat = "January 2, 2006"
+  dateFormat = "2006-01-02"
   commit = false
   rss = true
   comments = true
@@ -72,11 +74,6 @@ googleAnalytics = "G-MT7HR3N3JQ"
 #   slack = "username"
 #   discord = "invite code (https://discord.gg/XXXXXXX)"
 #   strava = "userid"
-
-[[menu.main]]
-    name = "Blog"
-    url = ""
-    weight = 1
 
 [[menu.main]]
     name = "@CHIH-YU"
