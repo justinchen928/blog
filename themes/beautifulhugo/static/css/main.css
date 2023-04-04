@@ -1,7 +1,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",sans-serif;';
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -162,14 +162,14 @@ figure:not(.dark) img, img.white {
 }
 @media (prefers-color-scheme: dark) {
   .navbar-custom {
-    background: #505050;
+    background: #000;
     border-bottom: 1px solid #AAA;
   }
 }
 
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 18px;
   letter-spacing: 1px;
 }
 
@@ -223,7 +223,7 @@ figure:not(.dark) img, img.white {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 30px 20px 20px;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;

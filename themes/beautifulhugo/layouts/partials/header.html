@@ -26,7 +26,7 @@
       {{end}}></div>
   {{ end }}
 
-  <header class="header-section {{ if $bigimg }}has-img{{ end }}">
+  <header class="header-section {{ if $bigimg }}has-img{{ end }} container">
     {{ if $bigimg }}
       <div class="intro-header big-img">
         {{ $subtitle := $.Scratch.Get "subtitle" }}
