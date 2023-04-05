@@ -1,4 +1,4 @@
-# baseURL = 'https:blog.justinchen928.com/'
+baseURL = 'https:www.justinchen928.com/'
 languageCode = 'zh-TW'
 title = '分而治之'
 subtitle = 'Breaking down complex problems into manageable pieces.'
@@ -31,7 +31,7 @@ googleAnalytics = "G-MT7HR3N3JQ"
 
 [Author]
   name = "CHIH-YU CHEN"
-  website = "blog.justinchen928.com"
+  website = "www.justinchen928.com"
   email = "justin928501@gmail.com"
   github = "justinchen928"
   linkedin = "chih-yu-chen-804b37a1"
