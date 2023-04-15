@@ -1,6 +1,8 @@
 ---
-# title: About me
-# subtitle: Why you'd want to go on a date with me
+title: CHIH-YU CHEN
+subtitle: I am an engineer, cat lover, trouble maker, solution provider, hiking enthusiast, and bike enthusiast. Always striving to learn more.
+share_img: /about.png
+author: justinchen
 comments: false
 ---
 
